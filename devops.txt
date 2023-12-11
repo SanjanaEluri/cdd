@@ -1,1 +1,9 @@
-SanjanaSathya
+Development and Operations
+life cycle
+code
+plan build
+release
+Deploy
+operate
+monitor
+test
